@@ -7,4 +7,4 @@
 
 ## ER Diagram
 
-![Hotel Booking ERD] (image/hotel_booking_erd.png)
+![Hotel Booking ERD](image/hotel_booking_erd.png)
