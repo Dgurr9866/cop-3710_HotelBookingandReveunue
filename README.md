@@ -1,14 +1,19 @@
 # cop-3710_HotelBookingandReveunue
 
-# Hotel Booking and Revenue Management Database
+## Hotel Booking and Revenue Management Database
+
+## Project Description
+This project implements a relational database for a hotel booking system. The database supports both operational reservation and revenue-focused analytics.
 
 ## Project Scope
 
-This project implements a relational database for a hotel booking system, focusing on two primary areas: 
-
-*   **operational workflows:** Providing the infrastructure to create, modify, and cancel reservations safely and efficiently.
-
-*   **Revenue management analytics:** Enabling sophisticated reporting, occupancy forecasting, and performance metrics.
+The system is designed to support:
+- Guest and reservation management(create, modify, cancel reservations)
+- Room type and inventory tracking
+- Pricing and date-based rate management
+- Payment transaction tracking
+- Cancellation logging and cancellation trend analysis
+- Occupancy and revenue reporting
 
 ### Key Features
 
@@ -26,8 +31,7 @@ This project implements a relational database for a hotel booking system, focusi
 
 *    **Revenue Metrics:** Calculation and tracking of important performance metrics.
 
-*    **Occupancy Forecasting:** Views and queries to project future occupancy based 
-        current bookings and historical trends. 
+*    **Occupancy Forecasting:** Views and queries to project future occupancy based on current bookings and historical trends. 
 
 #### Cancellations Analysis:
 *   **Cancellation Tracking:** Logging of cancellation times and reason for cancellation.
@@ -48,3 +52,5 @@ I will use the Hotel Booking demand Page given by the instructor using this url:
 
 https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
+## Note
+To satisfy the project complexity requirement, the data may extend beyond the Kaggle resource. Therefore, some values may be fabricated where real data is not available.
