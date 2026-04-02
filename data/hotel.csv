@@ -1,0 +1,101 @@
+hotel_id,hotel_name,hotel_type,city,is_active
+1,Orlando City Hotel,City Hotel,Orlando,Y
+2,Lakeland City Hotel,City Hotel,Lakeland,Y
+3,New York City Hotel,City Hotel,New York,Y
+4,St. Paul City Hotel,City Hotel,St. Paul,Y
+5,Rio City Hotel,City Hotel,Rio de Janeiro,Y
+6,Curitiba Resort Hotel,Resort Hotel,Curitiba,Y
+7,Windermere Resort Hotel,Resort Hotel,Windermere,Y
+8,Celebration Resort Hotel,Resort Hotel,Celebration,Y
+9,Charlotte Resort Hotel,Resort Hotel,Charlotte,Y
+10,Miami City Hotel,City Hotel,Miami,Y
+11,Miami Beach City Hotel,City Hotel,Miami,Y
+12,Clermont City Hotel,City Hotel,Clermont,Y
+13,Topeka City Hotel,City Hotel,Topeka,Y
+14,Lawton Hotel,City Hotel,Lawton,Y
+15,Leesville City Hotel,City Hotel,Leesville,Y
+16,Kingston Resort Hotel,Resort Hotel,Kingston,Y
+17,Rochester Resort Hotel,Resort Hotel,Rochester,Y
+18,Washington Resort Hotel,Resort Hotel,Washington,Y
+19,Pittsburgh Resort Hotel,Resort Hotel,Pittsburgh,Y
+20,Hershey Resort Hotel,Resort Hotel,Hershey,Y
+21,Tampa City Hotel,City Hotel,Tampa,Y
+22,Atlanta City Hotel,City Hotel,Atlanta,Y
+23,Riverview City Hotel,City Hotel,Riverview,Y
+24,Jacksonville City Hotel,City Hotel,Jacksonville,Y
+25,Palm Coast City Hotel,City Hotel,Palm Coast,Y
+26,London Resort Hotel,Resort Hotel,London,Y
+27,Dublin Resort Hotel,Resort Hotel,Dublin,Y
+28,Berlin Resort Hotel,Resort Hotel,Berlin,Y
+29,Munich Resort Hotel,Resort Hotel,Munich,Y
+30,Los Angeles Resort Hotel,Resort Hotel,Los Angeles,Y
+31,Berkley City Hotel,City Hotel,Berkley,Y
+32,Stark City Hotel,City Hotel,Stark,Y
+33,Queens City Hotel,City Hotel,Queens,Y
+34,Bronx City Hotel,City Hotel,Bronx,Y
+35,Brooklyn City Hotel,City Hotel,Brooklyn,Y
+36,Staten Island Resort Hotel,Resort Hotel,Staten Island,Y
+37,Boston Resort Hotel,Resort Hotel,Boston,Y
+38,Minneapolis Resort Hotel,Resort Hotel,Minneapolis,Y
+39,Houston Resort Hotel,Resort Hotel,Houston,Y
+40,San Antonio Resort Hotel,Resort Hotel,San Antonio,Y
+41,Dallas City Hotel,City Hotel,Dallas,Y
+42,Fort Worth City Hotel,City Hotel,Fort Worth,Y
+43,El Paso City Hotel,City Hotel,El Paso,Y
+44,Arlington City Hotel,City Hotel,Arlington,Y
+45,Corpus Christi City Hotel,City Hotel,Corpus Christi,Y
+46,Plano Resort Hotel,Resort Hotel,Plano,Y
+47,Lubbock Resort Hotel,Resort Hotel,Lubbock,Y
+48,Laredo Resort Hotel,Resort Hotel,Laredo,Y
+49,Irving Resort Hotel,Resort Hotel,Irving,Y
+50,Garland Resort Hotel,Resort Hotel,Garland,Y
+51,Naples City Hotel,City Hotel,Naples,Y
+52,Frisco City Hotel,City Hotel,Frisco,Y
+53,Mckinney City Hotel,City Hotel,Mckinney,Y
+54,Amarillo City Hotel,City Hotel,Amarillo,Y
+55,Grand Prairie City Hotel,City Hotel,Grand Prairie,Y
+56,Brownsville Resort Hotel,Resort Hotel,Brownsville,Y
+57,Killeen Resort Hotel,Resort Hotel,Killeen,Y
+58,Denton Resort Hotel,Resort Hotel,Denton,Y
+59,Pasadena Resort Hotel,Resort Hotel,Pasadena,Y
+60,Mesquite Resort Hotel,Resort Hotel,Mesquite,Y
+61,Mcallen City Hotel,City Hotel,Mcallen,Y
+62,Kissimmee City Hotel,City Hotel,Kissimmee,Y
+63,Waco City Hotel,City Hotel,Waco,Y
+64,Midland City Hotel,City Hotel,Midland,Y
+65,Carrollton City Hotel,City Hotel,Carrollton,Y
+66,Lewisville Resort Hotel,Resort Hotel,Lewisville,Y
+67,Abilene Resort Hotel,Resort Hotel,Abilene,Y
+68,Round Rock Resort Hotel,Resort Hotel,Round Rock,Y
+69,Pearland Resort Hotel,Resort Hotel,Pearland,Y
+70,College Station Resort Hotel,Resort Hotel,College Station,Y
+71,Daytona Beach City Hotel,City Hotel,Daytona Beach,Y
+72,The Woodlands City Hotel,City Hotel,The Woodlands,Y
+73,Richardson City Hotel,City Hotel,Richardson,Y
+74,League City Hotel,City Hotel,League City,Y
+75,Odessa City Hotel,City Hotel,Odessa,Y
+76,Beaumont Resort Hotel,Resort Hotel,Beaumont,Y
+77,Allen Resort Hotel,Resort Hotel,Allen,Y
+78,Sugar Land Resort Hotel,Resort Hotel,Sugar Land,Y
+79,Tyler Resort Hotel,Resort Hotel,Tyler,Y
+80,Edinburg Resort Hotel,Resort Hotel,Edinburg,Y
+81,Sarasota City Hotel,City Hotel,Sarasota,Y
+82,Wichita Falls City Hotel,City Hotel,Wichita Falls,Y
+83,Conroe City Hotel,City Hotel,Conroe,Y
+84,San Angelo City Hotel,City Hotel,San Angelo,Y
+85,Temple City Hotel,City Hotel,Temple,Y
+86,Bryan Resort Hotel,Resort Hotel,Bryan,Y
+87,Mission Resort Hotel,Resort Hotel,Mission,Y
+88,Georgetown Resort Hotel,Resort Hotel,Georgetown,Y
+89,Baytown Resort Hotel,Resort Hotel,Baytown,Y
+90,Longview Resort Hotel,Resort Hotel,Longview,Y
+91,Key West City Hotel,City Hotel,Key West,Y
+92,Flower Mound City Hotel,City Hotel,Flower Mound,Y
+93,Cedar Park City Hotel,City Hotel,Cedar Park,Y
+94,Mansfield City Hotel,City Hotel,Mansfield,Y
+95,Missouri City Hotel,City Hotel,Missouri City,Y
+96,Spring Resort Hotel,Resort Hotel,Spring,Y
+97,Victoria Resort Hotel,Resort Hotel,Victoria,Y
+98,Wylie Resort Hotel,Resort Hotel,Wylie,Y
+99,Kyle Resort Hotel,Resort Hotel,Kyle,Y
+100,Texas City Resort Hotel,Resort Hotel,Texas City,Y

@@ -1,0 +1,24 @@
+reservation_id,cancellation_reason_id,canceled_at,canceled_by_user_group,cancellation_note
+7,1,2015-05-06 12:00:00,Travel Agent,unknown
+8,1,2015-04-22 12:00:00,Travel Agent,unknown
+9,1,2015-06-23 12:00:00,Travel Agent,unknown
+26,1,2015-05-11 12:00:00,Travel Agent,unknown
+31,1,2015-05-29 12:00:00,Guest,unknown
+33,1,2015-05-19 12:00:00,Travel Agent,unknown
+34,1,2015-06-19 12:00:00,Travel Agent,unknown
+37,1,2015-05-23 12:00:00,Travel Agent,unknown
+39,1,2015-05-18 12:00:00,Travel Agent,unknown
+44,1,2015-06-02 12:00:00,Travel Agent,unknown
+63,1,2015-06-29 12:00:00,Travel Agent,unknown
+67,1,2015-06-16 12:00:00,Travel Agent,unknown
+68,1,2015-06-18 12:00:00,Travel Agent,unknown
+69,1,2015-07-03 12:00:00,Travel Agent,unknown
+70,1,2015-06-12 12:00:00,Travel Agent,unknown
+73,1,2015-06-09 12:00:00,Travel Agent,unknown
+75,1,2015-05-26 12:00:00,Travel Agent,unknown
+80,1,2015-05-19 12:00:00,Travel Agent,unknown
+82,1,2015-06-09 12:00:00,Guest,unknown
+86,1,2015-04-15 12:00:00,Travel Agent,unknown
+93,1,2015-05-26 12:00:00,Travel Agent,unknown
+94,1,2015-06-29 12:00:00,Travel Agent,unknown
+95,1,2015-05-13 12:00:00,Travel Agent,unknown

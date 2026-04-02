@@ -1,0 +1,7 @@
+cancellation_reason_id,reason_code,reason_description,active_flag
+1,UNKNOWN,Reason not available in source data,Y
+2,GUEST_CANCEL,Guest requested cancellation,Y
+3,PAYMENT_FAIL,Payment authorization failed,Y
+4,OVERBOOK,Reservation canceled due to overbooking,Y
+5,WEATHER,Travel disruption due to weather,Y
+6,MEDICAL,Medical or family emergency,Y

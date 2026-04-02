@@ -1,0 +1,101 @@
+rate_plan_id,room_type_id,rate_plan_name,meal_plan,deposit_type,refundable_flag,is_active
+1,1,Standard Flexible,Breakfast,None,Y,Y
+2,2,Standard Flexible,Breakfast,None,Y,Y
+3,3,Standard Flexible,Breakfast,None,Y,Y
+4,4,Standard Flexible,Breakfast,None,Y,Y
+5,5,Standard Flexible,Breakfast,None,Y,Y
+6,6,Deluxe Saver,Room Only,Full,N,Y
+7,7,Deluxe Saver,Room Only,Full,N,Y
+8,8,Deluxe Saver,Room Only,Full,N,Y
+9,9,Deluxe Saver,Room Only,Full,N,Y
+10,10,Standard Flexible,Breakfast,None,Y,Y
+11,11,Standard Flexible,Breakfast,None,Y,Y
+12,12,Standard Flexible,Breakfast,None,Y,Y
+13,13,Standard Flexible,Breakfast,None,Y,Y
+14,14,Standard Flexible,Breakfast,None,Y,Y
+15,15,Standard Flexible,Breakfast,None,Y,Y
+16,16,Deluxe Flexible,Breakfast,Partial,Y,Y
+17,17,Deluxe Flexible,Breakfast,Partial,Y,Y
+18,18,Deluxe Flexible,Breakfast,Partial,Y,Y
+19,19,Deluxe Flexible,Breakfast,Partial,Y,Y
+20,20,Deluxe Flexible,Breakfast,Partial,Y,Y
+21,21,City Flexible,Room Only,None,Y,Y
+22,22,City Flexible,Room Only,None,Y,Y
+23,23,City Flexible,Room Only,None,Y,Y
+24,24,City Flexible,Room Only,None,Y,Y
+25,25,City Flexible,Room Only,None,Y,Y
+26,26,Resort Advance,Breakfast,Full,N,Y
+27,27,Resort Advance,Breakfast,Full,N,Y
+28,28,Resort Advance,Breakfast,Full,N,Y
+29,29,Resort Advance,Breakfast,Full,N,Y
+30,30,Resort Advance,Breakfast,Full,N,Y
+31,31,Urban Saver,Room Only,None,Y,Y
+32,32,Urban Saver,Room Only,None,Y,Y
+33,33,Urban Saver,Room Only,None,Y,Y
+34,34,Urban Saver,Room Only,None,Y,Y
+35,35,Urban Saver,Room Only,None,Y,Y
+36,36,Suite Premium,Breakfast,Partial,Y,Y
+37,37,Suite Premium,Breakfast,Partial,Y,Y
+38,38,Suite Premium,Breakfast,Partial,Y,Y
+39,39,Suite Premium,Breakfast,Partial,Y,Y
+40,40,Suite Premium,Breakfast,Partial,Y,Y
+41,41,Business Flexible,Breakfast,None,Y,Y
+42,42,Business Flexible,Breakfast,None,Y,Y
+43,43,Business Flexible,Breakfast,None,Y,Y
+44,44,Business Flexible,Breakfast,None,Y,Y
+45,45,Business Flexible,Breakfast,None,Y,Y
+46,46,Deluxe Corporate,Room Only,Partial,Y,Y
+47,47,Deluxe Corporate,Room Only,Partial,Y,Y
+48,48,Deluxe Corporate,Room Only,Partial,Y,Y
+49,49,Deluxe Corporate,Room Only,Partial,Y,Y
+50,50,Deluxe Corporate,Room Only,Partial,Y,Y
+51,51,City Weekend,Breakfast,None,Y,Y
+52,52,City Weekend,Breakfast,None,Y,Y
+53,53,City Weekend,Breakfast,None,Y,Y
+54,54,City Weekend,Breakfast,None,Y,Y
+55,55,City Weekend,Breakfast,None,Y,Y
+56,56,Resort Promo,Half Board,Full,N,Y
+57,57,Resort Promo,Half Board,Full,N,Y
+58,58,Resort Promo,Half Board,Full,N,Y
+59,59,Resort Promo,Half Board,Full,N,Y
+60,60,Resort Promo,Half Board,Full,N,Y
+61,61,Standard Mobile,Room Only,None,Y,Y
+62,62,Standard Mobile,Room Only,None,Y,Y
+63,63,Standard Mobile,Room Only,None,Y,Y
+64,64,Standard Mobile,Room Only,None,Y,Y
+65,65,Standard Mobile,Room Only,None,Y,Y
+66,66,Suite Long Stay,Breakfast,Partial,Y,Y
+67,67,Suite Long Stay,Breakfast,Partial,Y,Y
+68,68,Suite Long Stay,Breakfast,Partial,Y,Y
+69,69,Suite Long Stay,Breakfast,Partial,Y,Y
+70,70,Suite Long Stay,Breakfast,Partial,Y,Y
+71,71,City Direct,Breakfast,None,Y,Y
+72,72,City Direct,Breakfast,None,Y,Y
+73,73,City Direct,Breakfast,None,Y,Y
+74,74,City Direct,Breakfast,None,Y,Y
+75,75,City Direct,Breakfast,None,Y,Y
+76,76,Family Escape,Half Board,Partial,Y,Y
+77,77,Family Escape,Half Board,Partial,Y,Y
+78,78,Family Escape,Half Board,Partial,Y,Y
+79,79,Family Escape,Half Board,Partial,Y,Y
+80,80,Family Escape,Half Board,Partial,Y,Y
+81,81,Standard Best Available,Room Only,None,Y,Y
+82,82,Standard Best Available,Room Only,None,Y,Y
+83,83,Standard Best Available,Room Only,None,Y,Y
+84,84,Standard Best Available,Room Only,None,Y,Y
+85,85,Standard Best Available,Room Only,None,Y,Y
+86,86,Family Advance,Breakfast,Full,N,Y
+87,87,Family Advance,Breakfast,Full,N,Y
+88,88,Family Advance,Breakfast,Full,N,Y
+89,89,Family Advance,Breakfast,Full,N,Y
+90,90,Family Advance,Breakfast,Full,N,Y
+91,91,Island Flexible,Breakfast,None,Y,Y
+92,92,Island Flexible,Breakfast,None,Y,Y
+93,93,Island Flexible,Breakfast,None,Y,Y
+94,94,Island Flexible,Breakfast,None,Y,Y
+95,95,Island Flexible,Breakfast,None,Y,Y
+96,96,Family Premium,Half Board,Partial,Y,Y
+97,97,Family Premium,Half Board,Partial,Y,Y
+98,98,Family Premium,Half Board,Partial,Y,Y
+99,99,Family Premium,Half Board,Partial,Y,Y
+100,100,Family Premium,Half Board,Partial,Y,Y
